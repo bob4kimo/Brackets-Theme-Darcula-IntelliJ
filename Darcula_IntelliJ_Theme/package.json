@@ -1,0 +1,20 @@
+{
+    "name": "bob4kimo.darcula-intellij-theme",
+    "title": "Darcula IntelliJ Theme",
+    "description": "Darcula with IntelliJ theme for Brackets",
+    "author": {
+    "name": "bob4kimo",
+    "url": "https://github.com/bob4kimo"
+    },
+    "homepage": "https://github.com/bob4kimo/Brackets-Theme-Darcula-IntelliJ",
+    "version": "1.0.0",
+    "license": "MIT",
+    "theme": {
+        "file": "darcula.css",
+        "dark": true
+    },
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "keywords": ["darcula","jetbrains","theme","dark","intellij"]
+}
